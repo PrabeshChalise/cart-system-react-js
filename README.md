@@ -1,7 +1,7 @@
 # cart-system-react-js
 this is cart system made from react js
 first create a react app using this code:
-1. npx create-react-app
+1. npx create-react-app.
 install bellow dependencies:
 1. npm i react-use-cart
 2. npm i react-router-dom
